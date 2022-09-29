@@ -27,6 +27,6 @@ git clone https://github.com/Nisad-Hossain/File-Fire
 
 cd File-Fire
 
-python 
+python NH-FILE.py
 
-Note : (THIS IS PAID TOOLS FOR FILE CLONEING BAST UID CLONER APPROVED FOR CONTACT ME)
+Note : (THIS IS PAID TOOLS FOR FILE CLONEING BAST FILE CLONER APPROVED FOR CONTACT ME)
